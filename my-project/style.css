@@ -1,0 +1,17 @@
+nav ul li a{
+    padding: 75px;
+    list-style: none;
+    text-decoration: none;
+    color: lightseagreen;
+}
+h1{
+    text-align: center;
+    color: darkcyan;
+}
+ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    
+}
