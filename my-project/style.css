@@ -1,8 +1,9 @@
 nav ul li a{
-    padding: 75px;
+    padding: 95px;
     list-style: none;
     text-decoration: none;
     color: lightseagreen;
+    
 }
 h1{
     text-align: center;
@@ -14,4 +15,10 @@ ul{
 nav ul li{
     list-style: none;
     
+}
+a:hover{
+    color: darkgreen;
+}
+a{
+    border-bottom: 1px solid;
 }
